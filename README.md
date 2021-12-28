@@ -1,0 +1,1 @@
+Following along the rust book [Chapter 4](https://doc.rust-lang.org/stable/book/ch04-01-what-is-ownership.html)
